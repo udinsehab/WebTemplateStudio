@@ -143,7 +143,7 @@
     "@azure/arm-appservice": "^7.0.0",
     "@azure/arm-cosmosdb": "^12.1.0",
     "@azure/arm-resources": "^4.0.0",
-    "@azure/arm-subscriptions": "^3.0.0",
+    "@azure/arm-subscriptions": "^4.0.0",
     "@azure/ms-rest-js": "^2.4.0",
     "@azure/ms-rest-nodeauth": "^3.0.9",
     "@types/archiver": "^3.1.0",
